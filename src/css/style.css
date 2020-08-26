@@ -6,6 +6,10 @@ html, body {
   color: #19263B;
 }
 
+.background1{
+  background-color: rgb(255, 204, 204);
+}
+
 
 .container{
   
@@ -27,6 +31,9 @@ ul{
 
 button{
   cursor: pointer;
+  outline:none;
+  border: 0;
+  border-radius: 2px;
 }
 .myheader{
   background-image: url("../assets/img-top2.png");
@@ -85,6 +92,38 @@ button{
   height: 50px;
   background-color: #F2585A;
 }
+.buttonsColors{
+ 
+  margin-left: 70%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+
+.buttonsColors button{
+  border: 0;
+  padding: 5px;
+  max-width: 50%;
+  
+  
+  
+}
+
+.background1{
+  background-color:  #E9F8FF;
+}
+.background2{
+  background-color: rgb(255, 204, 204) !important;
+}
+.background3{
+  background-color: rgb(245, 210, 157);
+}
+
+
+
+
+
 .buttonsHeader{
   display: flex;
   flex-direction: row;
@@ -98,12 +137,12 @@ button{
   color: #F5FFFA;
   background-color: #F2585A;
   border: 0;
-  border-radius: 2px;
+  
   padding: 13px;
   font-family: "Tame Book";
   font-size: 17px;
   
-  outline:none;
+  
 }
 
 .mybutton1:hover{
@@ -113,12 +152,10 @@ button{
 .mybutton2{
   color: #F5FFFA;
   background-color: #FEC019;
-  border: 0;
-  border-radius: 2px;
   padding: 13px;
   font-family: "Tame Book";
   font-size: 17px;
-  outline:none;
+  
 }
 .mybutton2:hover{
   opacity: 0.9;
@@ -390,7 +427,13 @@ section{
 
 footer{
   text-align: center;
+  background-color: rgb(228, 229, 230);
+  padding: 20px;
 }
 footer a{
-  font-style: none;
+  text-decoration: none;
+  color: #F2585A;
+  font-weight: bold;
+ 
+  
 }

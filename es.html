@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="utf8">
+<title>Mudar a cor do Background da página</title>
+<script type="text/javascript">
+// Função que lê a cor escolhida pelo usuário em <input type="color"> e altera a formatação CSS
+// do <body id="pagina"> com a cor escolhida.
+function mudar_cor_de_fundo(){
+// lê o valor de cor escolhido pelo usuário.
+var cor = document.getElementById("seletor_de_cores").value;
+// muda a formatação CSS do <body> background para a cor escolhida
+document.getElementById("pagina").style.backgroundColor = cor;
+// opcional: escreve na página a cor escolhida
+document.getElementById("cor_escolhida").innerHTML = "A Cor escolhida é "+cor;
+}
+</script>
+</head>
+<body id="pagina">
+<form>
+<p>Escolha uma cor para o fundo da página</p>
+<input id="seletor_de_cores" type="color"/><br><br>
+<button type="button" onclick="mudar_cor_de_fundo()">Executar</button>
+</form>
+<p id="cor_escolhida"></p>
+</body>
+</html>
+
+
+
+

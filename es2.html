@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Mudando a cor do Background</title>
+<style type="text/css">
+<!--
+.fundo{
+background-color:#FFFFFF;
+}
+.fundo1{
+background-color:#0000FF;
+}
+
+</style>
+<script language="javascript" type="text/javascript">
+
+function trocar(){
+var obj=document.getElementById('body');
+if(obj.className=='fundo1'){
+	obj.className='fundo';
+}else{
+	obj.className='fundo1';
+ }
+}
+
+</script>
+</head>
+
+<body id="body" class="fundo">
+<a href="#" onclick="trocar();">Azul</a> <br/>
+<a href="#" onclick="trocar();">Branco</a>
+</body>
+</html>
+</pre>
+
+
