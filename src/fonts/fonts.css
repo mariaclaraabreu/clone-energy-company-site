@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Russo One";
+  src: local(Russo One), url(../fonts/RussoOne-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Tame Book";
+  src: local(Tame W01 Book), url(../fonts/TameBook.ttf);
+}
