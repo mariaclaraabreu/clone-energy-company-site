@@ -106,9 +106,14 @@ button{
   padding: 5px;
   max-width: 50%;
   
-  
-  
 }
+
+.buttonsColors button:focus {
+  border: 1px solid rgb(119, 119, 119);
+  -webkit-box-shadow: 5px 5px 28px -4px #6D6D6D; 
+  box-shadow: 5px 5px 28px -4px #6D6D6D;
+  
+} 
 
 .background1{
   background-color:  #E9F8FF;
@@ -425,12 +430,113 @@ section{
   margin-top: 10px;
 }
 
+.informations{
+  display: flex;
+  flex-direction: row;
+  /* margin-left: 100px; */
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  /* align-items: center */
+  
+}
+
+.informations ul{
+  padding-left: 0px;
+  margin-right: 50px;
+}
+
+.informations ul li{
+  margin-bottom: 15px;
+}
+
+
+
+.informations .subscribe{
+  /* max-width: 00px; */
+  width: 350px;
+}
+
+.informations .subscribe button{
+  max-width: 40%;
+  text-align: center;
+  margin-left: 77%;
+  margin-top: 10px;
+}
+.informations input{
+  width: 300px;
+  padding: 10px;
+  padding-left: 20px;
+  border: 0;
+  border-radius: 5px;
+  outline:none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+}
+/* .informations .informationsContent{
+  margin-left: 100px;
+  max-width: 80%;
+  margin: 0 auto;
+} */
+
+.modalContainer{
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0, .5);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 20000;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalContainer.show{
+  display: flex;
+
+}
+
+.modal{
+  background-color: #ffffff;
+  width: 60%;
+  min-width: 300px;
+  text-align: center;
+  padding: 40px;
+  position: relative;
+
+}
+
+@keyframes modal{
+  from{
+    opacity: 0;
+    transform: translate3d(0, -60px, 0);
+  }
+  to{
+    opacity: 1;
+    transform: translate3d(0, 0px, 0);
+  }
+}
+
+.show .modal{
+  animation: modal .3s;
+
+}
+
+.closeModal{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  
+}
+
+
 footer{
   text-align: center;
   background-color: rgb(228, 229, 230);
   padding: 20px;
 }
-footer a{
+footer button{
   text-decoration: none;
   color: #F2585A;
   font-weight: bold;

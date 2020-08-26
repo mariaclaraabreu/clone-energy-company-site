@@ -13,7 +13,9 @@
     
     <header class="myheader">
       <!-- <img src="./src/assets/img-top.jpg" alt="" class="img-nav"> -->
+      
       <div class="buttonsColors">
+      
         <button onclick="change_background1()" class="background1">Verde</button>
         <button onclick="change_background2()" class="background2">Rosa</button>
         <button onclick="change_background3()" class="background3">Laranja</button>
@@ -214,15 +216,59 @@
 
 
    <section class="informations">
+     <div class="community">
+       <h4>Community</h4>
+       <ul>
+         <li>Services</li>
+         <li>Who We Serve</li>
+         <li>Who We Are</li>
+         <li>Pricing</li>
+         <li>Who We Are</li>
+       </ul>
+     </div>
+     <div class="about">
+      <h4>About us</h4>
+       <ul>
+         <li>Services</li>
+         <li>Who We Serve</li>
+         <li>Who We Are</li>
+         <li>Pricing</li>
+         <li>Who We Are</li>
+       </ul>
+    </div>
+
+    <div class="subscribe">
+      <h4>Subscribe o Our Newsletter</h4>
+      <p>Aviso: o  desativar esta extensão no modo de navegação anónima, desselecione esta opção.</p>
+      <input placeholder="E-mail here" type="email">
+      <button class="mybutton1">Send</button>
+    </div>
 
    </section>
 
+
+   
+
    <footer>
-    <a href="">@creditos</a>
+
+
+    <div id="modalCreditss" class="modalContainer">
+      <div class="modal">
+        <button class="closeModal">x</button>
+        <b>Desenvolvimento Web</b><br>
+        Feito com <b>amor</b> por Maria Clara &#10083; 
+      </div>
+    </div>
+
+    <button href="" class="credits">@credits</button>
+    <button class="btn btn-primary" id="btn-mensagem">Exibir modal via JavaScript</button>
 
    </footer>
 
 
    <script src="./src/js/background.js"></script>
+   <script src="./src/js/modal.js"></script>
+
+  
 </body>
 </html>
