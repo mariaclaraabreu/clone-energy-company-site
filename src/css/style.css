@@ -37,7 +37,7 @@ button{
 }
 .myheader{
   background-image: url("../assets/img-top2.png");
-
+  border-radius: 0px 0px 150px 0px;
   background-repeat: no-repeat;
   background-color: #000000;
 
@@ -89,8 +89,12 @@ button{
 }
 
 .banner{
-  height: 50px;
+  height: 200px;
   background-color: #F2585A;
+  /* z-index: -200000; */
+  margin-top: -150px;
+  position: static;
+  border-radius: 0px 0px 150px 0px;
 }
 .buttonsColors{
  
