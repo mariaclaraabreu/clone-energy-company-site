@@ -384,15 +384,18 @@ section{
   padding-top: 10px;
 }
 
+.list-comments button{
+  margin-left: 10px;
+}
 
-.commentsContent .form{
+.commentsContent #form{
   display: flex;
   flex-direction: column;
   max-width: 40%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.form button{
+#form button{
   max-width: 40%;
   text-align: center;
   margin-left: 60%;

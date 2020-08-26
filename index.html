@@ -186,11 +186,12 @@
    <section class="comments">
      <div class="commentsContent">
       <h1>Leave your message</h1>
-      <div class="form">
-        <span>Name</span><input type="text">
-        <span class="spanMessage">Message</span><textarea type="textarea" class="inputMessage"></textarea>
-        <button class="mybutton1">Send</button>
-      </div>
+      <form id="form">
+        <span>Name</span><input id="name" type="text">
+        <span class="spanMessage">Message</span><textarea type="textarea" id="message" class="inputMessage"></textarea>
+        <!-- <button id="submit" class="mybutton1">Send</button> -->
+        <input type="submit" value="Enviar">
+      </form>
       
       <div class="boxComments">
       
@@ -246,6 +247,8 @@
 
    </section>
 
+   
+
 
    
 
@@ -268,6 +271,7 @@
 
    <script src="./src/js/background.js"></script>
    <script src="./src/js/modal.js"></script>
+   ]<script src="./src/js/messages.js"></script>
 
   
 </body>
