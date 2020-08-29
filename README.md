@@ -1,9 +1,7 @@
 # Clone de um site de companhia elétrica 
 
 <h2>Descrição:</h2>
-<p>Neste repositório há a implementação de um clone de um modelo de site institucional de uma empresa de energia e foi retirado da dribbble. O modelo usado para o clone pode ser visualizado 
-  
-  [aqui](https://dribbble.com/shots/14075558-Spotlight-Electric-Landing-Page-design) 
+<p>Neste repositório há a implementação de um clone de um modelo de site institucional de uma empresa de energia e foi retirado da dribbble. O modelo usado para o clone pode ser visualizado [aqui](https://dribbble.com/shots/14075558-Spotlight-Electric-Landing-Page-design) 
   
   
 </p>
