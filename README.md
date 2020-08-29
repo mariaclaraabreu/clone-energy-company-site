@@ -13,7 +13,7 @@
   <li><b>JAVASCRIPT</b>: implementação das funcionalidades de mudar cor de fundo por meio de botão, inserir e excluir elementos da lista de comentários e exibir modal;</li>
 </ul>
 
-<h2>Instruções para começar a utilizar a API:</h2>
+<h2>Instruções para começar a utilizar o site:</h2>
 <ul>
   <li><b>1º</b>: Clone o repositório e abra o arquivo index.html com seu navegador preferido (o arquivo está na pasta raiz do projeto);</li>
 </ul>
