@@ -28,12 +28,18 @@
   
   <li>
   <p>O background é alterado de acordo com botão de cor selecionado pelo usuário:</p>
-  
+
+![backgroundgif](https://user-images.githubusercontent.com/44175992/91637974-89ae3e80-e9e2-11ea-8d8b-542f7b66f20e.gif)
+
+  </br>
 
   </li>
   
   <li>
   <p>O sistema apresenta os créditos em um modal (pop-up):</p>
+  ![modalgif](https://user-images.githubusercontent.com/44175992/91637926-3f2cc200-e9e2-11ea-8aeb-72899afa6b92.gif)
+</br>
+
   
 
   </li>
@@ -41,9 +47,20 @@
   <li>
   <p>É possível a inserção de comentários:</p>
 
+![mensagemgif](https://user-images.githubusercontent.com/44175992/91637928-40f68580-e9e2-11ea-9832-fcbb5701e9cb.gif)
+
+</br>
+
   </li>
   <li>
   <p>O design é quase completamente responsivo:</p>
+
+![responsivo1gif](https://user-images.githubusercontent.com/44175992/91637930-4227b280-e9e2-11ea-8c37-27b1bcba917e.gif)
+</br>
+![responsivo2gif](https://user-images.githubusercontent.com/44175992/91637932-43f17600-e9e2-11ea-9d33-13d53fe93b93.gif)
+
+
+
 
   </li>
   
