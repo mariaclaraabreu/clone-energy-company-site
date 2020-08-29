@@ -23,7 +23,7 @@
 
 ![alt tag](https://user-images.githubusercontent.com/44175992/91637623-258a7b00-e9e0-11ea-8291-ed197cff6301.gif)
 
-</br>
+<br>
   </li>
   
   <li>
@@ -31,14 +31,14 @@
 
 ![backgroundgif](https://user-images.githubusercontent.com/44175992/91637974-89ae3e80-e9e2-11ea-8d8b-542f7b66f20e.gif)
 
-  </br>
+  <br>
 
   </li>
   
   <li>
   <p>O sistema apresenta os créditos em um modal (pop-up):</p>
   ![modalgif](https://user-images.githubusercontent.com/44175992/91637926-3f2cc200-e9e2-11ea-8aeb-72899afa6b92.gif)
-</br>
+<br>
 
   
 
@@ -49,14 +49,14 @@
 
 ![mensagemgif](https://user-images.githubusercontent.com/44175992/91637928-40f68580-e9e2-11ea-9832-fcbb5701e9cb.gif)
 
-</br>
+<br>
 
   </li>
   <li>
   <p>O design é quase completamente responsivo:</p>
 
 ![responsivo1gif](https://user-images.githubusercontent.com/44175992/91637930-4227b280-e9e2-11ea-8c37-27b1bcba917e.gif)
-</br>
+<br>
 ![responsivo2gif](https://user-images.githubusercontent.com/44175992/91637932-43f17600-e9e2-11ea-9d33-13d53fe93b93.gif)
 
 
