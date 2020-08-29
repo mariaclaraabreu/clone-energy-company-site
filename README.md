@@ -17,8 +17,46 @@
 </ul>
 
 <h2>Descrição detalhada:</h2>
-<h4>Header:</h4>
-![visaogeralgif](https://user-images.githubusercontent.com/44175992/91637478-1ce57500-e9df-11ea-9466-0f71c9abb48d.gif)
+<ul>
+  <li>
+  <p>No gif abaixo pode ser vista uma visão geral de como ficou o clone:</p>
 
-<p>  
-</p>
+![alt tag](https://user-images.githubusercontent.com/44175992/91637623-258a7b00-e9e0-11ea-8291-ed197cff6301.gif)
+
+</br>
+  </li>
+  
+  <li>
+  <p>O background é alterado de acordo com botão de cor selecionado pelo usuário:</p>
+  
+
+  </li>
+  
+  <li>
+  <p>O sistema apresenta os créditos em um modal (pop-up):</p>
+  
+
+  </li>
+  
+  <li>
+  <p>É possível a inserção de comentários:</p>
+
+  </li>
+  <li>
+  <p>O design é quase completamente responsivo:</p>
+
+  </li>
+  
+
+  
+  
+</ul>
+
+
+
+
+
+</br>
+
+
+
