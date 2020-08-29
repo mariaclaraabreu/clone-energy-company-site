@@ -37,7 +37,10 @@
   
   <li>
   <p>O sistema apresenta os créditos em um modal (pop-up):</p>
-  ![modalgif](https://user-images.githubusercontent.com/44175992/91637926-3f2cc200-e9e2-11ea-8aeb-72899afa6b92.gif)
+  
+  ![modalgif](https://user-images.githubusercontent.com/44175992/91638058-1ce77400-e9e3-11ea-9678-e1a18615be13.gif)
+
+  
 <br>
 
   
@@ -56,7 +59,9 @@
   <p>O design é quase completamente responsivo:</p>
 
 ![responsivo1gif](https://user-images.githubusercontent.com/44175992/91637930-4227b280-e9e2-11ea-8c37-27b1bcba917e.gif)
-<br>
+
+<br><br>
+
 ![responsivo2gif](https://user-images.githubusercontent.com/44175992/91637932-43f17600-e9e2-11ea-9d33-13d53fe93b93.gif)
 
 
